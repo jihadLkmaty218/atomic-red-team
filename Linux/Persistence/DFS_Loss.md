@@ -1,6 +1,8 @@
 
-Denial of service Terminal-disable ::> CVE-2017-7998 
+Denial of service Terminal-disable ::> CVE-2017-7998
+
 Author @matthomjxi0e 
+
 codeing-raw
 
 [Code-raw](https://gist.githubusercontent.com/jihadLkmaty218/cd85ab240250a52089602a9cd14b2960/raw/e00f2d3e680d2597392e38dc91564c5bf3439555/CVE-2017-7998.c)
